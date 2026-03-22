@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |

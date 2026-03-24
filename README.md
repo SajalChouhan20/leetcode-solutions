@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3111-minimum-rectangles-to-cover-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3111-minimum-rectangles-to-cover-points) |
 ## Sorting
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3111-minimum-rectangles-to-cover-points) |
 ## Matrix
 |  |
 | ------- |

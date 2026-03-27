@@ -111,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Enumeration
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0198-house-robber](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0198-house-robber) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0498-diagonal-traverse](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |

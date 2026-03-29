@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0306-additive-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0306-additive-number) |
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Backtracking
 |  |
 | ------- |

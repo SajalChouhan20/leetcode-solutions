@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0198-house-robber) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0498-diagonal-traverse](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3111-minimum-rectangles-to-cover-points) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0001-two-sum) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0398-random-pick-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |

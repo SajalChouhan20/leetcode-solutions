@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0306-additive-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0306-additive-number) |
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |

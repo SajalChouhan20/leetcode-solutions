@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
 | [0447-number-of-boomerangs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |

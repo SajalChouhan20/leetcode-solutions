@@ -43,36 +43,37 @@
 // }
 class Solution {
 
-    static boolean isPrime(int num) {
-        if (num < 2) return false;
-
-        for (int i = 2; i * i <= num; i++) {
-            if (num % i == 0)
-                return false;
-        }
-        return true;
-    }
-
     public boolean primeSubOperation(int[] nums) {
+
+        boolean[] isPrime = new boolean[1001];
+        Arrays.fill(isPrime, true);
+        isPrime[0] = isPrime[1] = false;
+
+        for (int i = 2; i * i <= 1000; i++) {
+            if (isPrime[i]) {
+                for (int j = i * i; j <= 1000; j += i)
+                    isPrime[j] = false;
+            }
+        }
+
         int prev = 0;
 
         for (int i = 0; i < nums.length; i++) {
 
-            int best = nums[i];
+            int prime = 0;
 
             for (int p = 2; p < nums[i]; p++) {
-                if (isPrime(p)) {
-                    int val = nums[i] - p;
-                    if (val > prev && val < best) {
-                        best = val;
-                    }
+                if (isPrime[p] && nums[i] - p > prev) {
+                    prime = p;     
                 }
             }
-            if (best <= prev) {
-                return false;
-            }
 
-            prev = best;
+            nums[i] -= prime;
+
+            if (nums[i] <= prev)
+                return false;
+
+            prev = nums[i];
         }
 
         return true;

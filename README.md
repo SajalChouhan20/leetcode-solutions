@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
 | [0447-number-of-boomerangs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
+| [2614-prime-in-diagonal](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3115-maximum-prime-difference](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2540-minimum-common-value](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
+| [2614-prime-in-diagonal](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2784-check-if-array-is-good](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2614-prime-in-diagonal](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2906-construct-product-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
+| [2614-prime-in-diagonal](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3115-maximum-prime-difference](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
 | [0447-number-of-boomerangs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
+| [2761-prime-pairs-with-target-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3115-maximum-prime-difference](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2784-check-if-array-is-good](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Bit Manipulation
 |  |
@@ -197,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
+| [2761-prime-pairs-with-target-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3115-maximum-prime-difference](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->

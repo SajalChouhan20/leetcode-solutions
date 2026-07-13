@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0306-additive-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0306-additive-number) |
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3115-maximum-prime-difference](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3765-complete-prime-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3765-complete-prime-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->

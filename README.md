@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3765-complete-prime-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3765-complete-prime-number) |

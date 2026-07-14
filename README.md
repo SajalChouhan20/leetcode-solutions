@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3111-minimum-rectangles-to-cover-points](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3115-maximum-prime-difference](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3693-climbing-stairs-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3693-climbing-stairs-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Enumeration
 |  |
 | ------- |

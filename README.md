@@ -248,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->

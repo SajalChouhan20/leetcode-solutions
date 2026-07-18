@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0198-house-robber) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0198-house-robber) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [2540-minimum-common-value](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Memoization
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0071-simplify-path) |
 ## String Matching
 |  |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0184-department-highest-salary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

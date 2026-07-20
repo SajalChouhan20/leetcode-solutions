@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0874-walking-robot-simulation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0498-diagonal-traverse](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [1260-shift-2d-grid](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0874-walking-robot-simulation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0322-coin-change) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |

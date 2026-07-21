@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2540-minimum-common-value](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
 | [2614-prime-in-diagonal](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2614-prime-in-diagonal](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2906-construct-product-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1668-maximum-repeating-substring](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3693-climbing-stairs-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Enumeration

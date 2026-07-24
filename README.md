@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0322-coin-change) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0413-arithmetic-slices](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0498-diagonal-traverse](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0413-arithmetic-slices](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |

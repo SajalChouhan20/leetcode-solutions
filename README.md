@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0398-random-pick-index) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0306-additive-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |

@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0306-additive-number) |
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1668-maximum-repeating-substring](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1668-maximum-repeating-substring](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1937-maximum-number-of-points-with-cost) |

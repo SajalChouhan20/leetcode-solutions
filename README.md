@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0322-coin-change) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2540-minimum-common-value](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
 ## Divide and Conquer
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0322-coin-change) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [2540-minimum-common-value](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
 ## Divide and Conquer
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [2906-construct-product-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |

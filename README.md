@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0062-unique-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

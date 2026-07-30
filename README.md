@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0799-champagne-tower](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [1137-n-th-tribonacci-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |

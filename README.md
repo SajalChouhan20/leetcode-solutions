@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3693-climbing-stairs-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3731-find-missing-elements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3731-find-missing-elements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Geometry
 |  |
 | ------- |

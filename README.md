@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0127-word-ladder](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0306-additive-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0306-additive-number) |
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0322-coin-change) |
 ## Trie
 |  |
@@ -364,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

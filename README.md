@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0391-perfect-rectangle](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0398-random-pick-index) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0525-contiguous-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0306-additive-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0306-additive-number) |
 | [0415-add-strings](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |

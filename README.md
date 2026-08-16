@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1137-n-th-tribonacci-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
 | [2614-prime-in-diagonal](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0874-walking-robot-simulation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [1140-stone-game-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1140-stone-game-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2906-construct-product-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0799-champagne-tower](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [1137-n-th-tribonacci-number](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1668-maximum-repeating-substring](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Knapsack Problem
 |  |
@@ -398,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -406,5 +412,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

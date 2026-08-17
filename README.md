@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0078-subsets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

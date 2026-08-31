@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3693-climbing-stairs-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3731-find-missing-elements](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Geometry
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## String
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Stack
 |  |
 | ------- |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [2029-stone-game-ix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3679-minimum-discards-to-balance-inventory](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Game Theory
 |  |
 | ------- |

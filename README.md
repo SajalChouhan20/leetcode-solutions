@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2029-stone-game-ix](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2109-adding-spaces-to-a-string](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2601-prime-subtraction-operation](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2601-prime-subtraction-operation) |
 | [2614-prime-in-diagonal](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1603-design-parking-system](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2109-adding-spaces-to-a-string](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1668-maximum-repeating-substring](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2109-adding-spaces-to-a-string](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/SajalChouhan20/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Memoization
 |  |
